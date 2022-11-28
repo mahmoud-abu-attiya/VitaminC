@@ -28,8 +28,8 @@ html, body{
 
 .swiper-slide img {
    display: block;
-   width: 100%;
-   height: 100%;
+   width: 100vw;
+   height: 100vh;
    object-fit: cover;
 }
 
@@ -41,5 +41,5 @@ html, body{
 .swiper-button-next i,
 .swiper-button-prev i {
    font-size: 24px;
-
+   color: #ec2b2c;
 }
